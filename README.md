@@ -95,11 +95,13 @@ DSA2040A_DataMining_EcomAnalytics/
 
 👥 Team Members & Roles
 🧑‍💻 Name	🎓 Role	🔍 Responsibilities
+```
 [Member 1]	ETL Lead	Data extraction, cleaning, transformation
 [Member 2]	Data Analyst	EDA, visualization, and summary stats
 [Member 3]	Data Miner / Modeler	Clustering, classification, pattern mining
 [Member 4]	Reporter / Presenter	Dashboard creation, executive summary, presentation
 All Members	Collaborators	Minimum 3 commits each + notebook comments
+```
 🧰 Tools & Technologies
 
 🖥️ Programming: Python (Pandas, NumPy, scikit-learn)
@@ -112,9 +114,13 @@ All Members	Collaborators	Minimum 3 commits each + notebook comments
 
 By the end of this project, we’ll have:
 ✅ A clean and enriched dataset ready for mining
+
 📈 A detailed exploratory analysis with visuals
+
 🤖 Machine learning models for clustering and prediction
+
 🛍️ Actionable business insights for Olist’s growth
+
 🎨 A mini insights dashboard for storytelling
 
 Ultimately, this project demonstrates how data science transforms raw transactions into strategic intelligence — one dataset at a time. 🔥
