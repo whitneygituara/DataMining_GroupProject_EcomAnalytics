@@ -51,6 +51,7 @@ Which products are frequently bought together (market basket analysis)?
 📊 Data Period: 2016–2018
 📦 Files Included:
 
+```
 File	Description
 olist_orders_dataset.csv	Order details and delivery statuses
 olist_order_items_dataset.csv	Products sold per order
@@ -60,6 +61,7 @@ olist_order_payments_dataset.csv	Payment methods and amounts
 olist_order_reviews_dataset.csv	Customer review scores and comments
 olist_sellers_dataset.csv	Seller info and location
 olist_geolocation_dataset.csv	Latitude/longitude per ZIP code
+```
 
 🧹 The dataset is “beautifully messy” — it includes missing values, inconsistent dates, and duplicated records.
 That gives us the perfect chance to showcase our ETL and cleaning skills!
@@ -72,6 +74,7 @@ That gives us the perfect chance to showcase our ETL and cleaning skills!
 4️⃣ Insights & Storytelling	Build an interactive dashboard and extract actionable insights for business users.	Plotly Dash / Power BI / Jupyter
 5️⃣ Reporting & Presentation	Summarize findings, challenges, and insights in an executive summary and presentation.	PDF Report, PowerPoint Slides
 📂 Repository Structure
+```
 DSA2040A_DataMining_EcomAnalytics/
 ├── data/
 │   ├── raw/                # Original Olist CSV files
@@ -88,6 +91,7 @@ DSA2040A_DataMining_EcomAnalytics/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 👥 Team Members & Roles
 🧑‍💻 Name	🎓 Role	🔍 Responsibilities
